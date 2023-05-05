@@ -1,6 +1,8 @@
 # wmt_tft_study
 My TFT demo
 
+## TODO, 记录开发环境货工具链   
+
 ## LilyGo T4  
 * ShowBMPFlash_v3_ganyu.rar  
 * LILYGO® TTGO T4 ESP32 MCU ILI9341 240x320 LCD,  
