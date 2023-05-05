@@ -1,7 +1,8 @@
 # wmt_tft_study
 My TFT demo
 
-## TODO, 记录开发环境货工具链   
+## TODO  
+* 记录开发环境或工具链   
 
 ## LilyGo T4  
 * ShowBMPFlash_v3_ganyu.rar  
