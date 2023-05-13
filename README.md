@@ -14,3 +14,4 @@ T4 BTC Ticker 2.2寸液晶屏 CH9102F[Q367]
 
 ## T-Watch 2020 V3  
 * ips2_0_esp32_ganyu_twatch_2020_v3.rar  
+* watchdemo_twatchv3_v1_success.rar  
